@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+pygam
+lightgbm
+transformers
+jupyter
+beautifulsoup4
+bottleneck
